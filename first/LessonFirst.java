@@ -9,20 +9,24 @@ import java.util.Scanner;
  * числа, которые делятся только на себя и на единицу без остатка.
  * Чтобы найти остаток от деления используйте оператор % ,
  * например 10%3 будет равно единице)
+ * 4. Реализовать простой калькулятор ("введите первое число"...
+ * "Введите второе число"... "укажите операцию, которую надо выполнить
+ * с этими числами"... "ответ: ...")
  */
 
 public class LessonFirst {
 
     public static void main(String[] args) {
         // System.out.printf("n-ое треугольное число равно %d \n",
-        // taskFirst(readNum()));
+        // taskFirst(readNum("натуральное")));
         // System.out.printf("Факториал числа n равен %d \n",
-        // taskSecondFact(readNum()));
-        System.out.printf("Простые числа от 0 до 1000: %s", getPrimes());
+        // taskSecondFact(readNum("натуральное")));
+        // System.out.printf("Простые числа от 0 до 1000: %s", taskThirdGetPrimes());
+        System.out.printf("Результат выбранной операции: %.1f\n", taskFourthCalc());
     }
 
-    public static int readNum() {
-        System.out.println("Введите натуральное число n: -->");
+    public static int readNum(String param) {
+        System.out.printf("Введите %s число n: --> ", param);
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
         scan.close();
@@ -41,7 +45,7 @@ public class LessonFirst {
         return fact;
     }
 
-    public static String getPrimes() {
+    public static String taskThirdGetPrimes() {
         int count = 0;
         String res = "1, ";
 
@@ -61,5 +65,36 @@ public class LessonFirst {
         res = res.substring(0, res.length() - 2) + "\n";
 
         return res;
+    }
+
+    public static double taskFourthCalc() {
+        System.out.print("Введите первое число: --> ");
+        Scanner scan = new Scanner(System.in);
+        double a = scan.nextDouble();
+        System.out.print("Введите второе число: --> ");
+        double b = scan.nextDouble();
+
+        System.out.print(
+                "Укажите операцию, которую надо выполнить с введенными числами:\n\tsum - сложение,\n\tminus - вычитание,\n\tmult - умножение,\n\tdel - деление\n--> ");
+        String operation = scan.next();
+
+        double result = 0;
+
+        switch (operation) {
+            case "sum":
+                result = a + b;
+                break;
+            case "minus":
+                result = a - b;
+                break;
+            case "mult":
+                result = a * b;
+                break;
+            case "del":
+                result = a / b;
+                break;
+        }
+        scan.close();
+        return result;
     }
 }
