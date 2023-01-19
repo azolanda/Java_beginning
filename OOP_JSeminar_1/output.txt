@@ -1,0 +1,7 @@
+Mary Smith
+--|Kate Smith - daughter
+--|John Smith - son
+----|David Smith - grandson
+------|Melissa Smith-Morgan - grandgranddaughter
+--------|Helen Morgan - grandgrandgranddaughter
+--------|Sam Morgan - grandgrandgrandson
