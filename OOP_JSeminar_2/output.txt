@@ -1,0 +1,7 @@
+Mary Smith, animals: [Cat name:Masha breed:american bobtail]
+--|Kate Smith - daughter, animals: no
+--|John Smith - son, animals: [Dog name:Kolya breed:dog]
+----|David Smith - grandson, animals: no
+------|Melissa Smith-Morgan - grandgranddaughter, animals: no
+--------|Helen Morgan - grandgrandgranddaughter, animals: no
+--------|Sam Morgan - grandgrandgrandson, animals: [Hamster name:Ham breed:dzungarian]
