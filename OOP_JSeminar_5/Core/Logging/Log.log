@@ -1,0 +1,32 @@
+февр. 09, 2023 6:58:40 AM UI.ConsoleMenu initApp
+INFO: Opening phonebook
+февр. 09, 2023 6:58:40 AM UI.ConsoleMenu initApp
+INFO: Main menu
+февр. 09, 2023 6:58:49 AM UI.ConsoleMenu initApp
+INFO: Choose adding contact
+февр. 09, 2023 6:59:28 AM UI.ConsoleMenu initApp
+INFO: New contact was added
+февр. 09, 2023 6:59:28 AM UI.ConsoleMenu initApp
+INFO: Main menu
+февр. 09, 2023 6:59:33 AM UI.ConsoleMenu initApp
+INFO: Choose exporting contacts
+февр. 09, 2023 6:59:33 AM UI.ConsoleMenu initApp
+INFO: Contacts was exported successfully
+февр. 09, 2023 6:59:33 AM UI.ConsoleMenu initApp
+INFO: Main menu
+февр. 09, 2023 6:59:37 AM UI.ConsoleMenu initApp
+INFO: Choose importing contacts
+февр. 09, 2023 6:59:37 AM UI.ConsoleMenu initApp
+INFO: Contacts was imported successfully
+февр. 09, 2023 6:59:37 AM UI.ConsoleMenu initApp
+INFO: Main menu
+февр. 09, 2023 6:59:40 AM UI.ConsoleMenu initApp
+INFO: Choose printing contacts
+февр. 09, 2023 6:59:40 AM UI.ConsoleMenu initApp
+INFO: Contacts was printed successfully
+февр. 09, 2023 6:59:40 AM UI.ConsoleMenu initApp
+INFO: Main menu
+февр. 09, 2023 6:59:44 AM UI.ConsoleMenu initApp
+INFO: Choose closing phonebook
+февр. 09, 2023 6:59:44 AM UI.ConsoleMenu initApp
+INFO: Closing phonebook
