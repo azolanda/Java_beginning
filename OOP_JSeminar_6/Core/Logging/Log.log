@@ -154,29 +154,71 @@ INFO: Main menu
 INFO: Choose printing contacts
 февр. 13, 2023 1:44:31 PM Core.MVP.Presenter printPhonebook
 INFO: Contacts was printed successfully
-февр. 13, 2023 1:44:31 PM Core.MVP.Presenter printPhonebook
-INFO: Contacts was printed successfully
-февр. 13, 2023 1:44:31 PM Core.MVP.Presenter printPhonebook
-INFO: Contacts was printed successfully
-февр. 13, 2023 1:44:31 PM Core.MVP.Presenter printPhonebook
-INFO: Contacts was printed successfully
-февр. 13, 2023 1:44:31 PM Core.MVP.Presenter printPhonebook
-INFO: Contacts was printed successfully
-февр. 13, 2023 1:44:31 PM Core.MVP.Presenter printPhonebook
-INFO: Contacts was printed successfully
-февр. 13, 2023 1:44:31 PM Core.MVP.Presenter printPhonebook
-INFO: Contacts was printed successfully
-февр. 13, 2023 1:44:31 PM Core.MVP.Presenter printPhonebook
-INFO: Contacts was printed successfully
-февр. 13, 2023 1:44:31 PM Core.MVP.Presenter printPhonebook
-INFO: Contacts was printed successfully
-февр. 13, 2023 1:44:31 PM Core.MVP.Presenter printPhonebook
-INFO: Contacts was printed successfully
-февр. 13, 2023 1:44:31 PM Core.MVP.Presenter printPhonebook
-INFO: Contacts was printed successfully
 февр. 13, 2023 1:44:31 PM UI.ConsoleMenu initApp
 INFO: Main menu
 февр. 13, 2023 1:45:16 PM UI.ConsoleMenu initApp
 INFO: Choose closing phonebook
 февр. 13, 2023 1:45:16 PM UI.ConsoleMenu initApp
+INFO: Closing phonebook
+февр. 13, 2023 2:03:36 PM UI.ConsoleMenu initApp
+INFO: Opening phonebook
+февр. 13, 2023 2:03:36 PM UI.ConsoleMenu initApp
+INFO: Main menu
+февр. 13, 2023 2:03:46 PM UI.ConsoleMenu initApp
+INFO: Choose adding contact
+февр. 13, 2023 2:04:24 PM Core.MVP.Model addContact
+INFO: New contact was added
+февр. 13, 2023 2:04:25 PM UI.ConsoleMenu initApp
+INFO: Main menu
+февр. 13, 2023 2:04:28 PM UI.ConsoleMenu initApp
+INFO: Choose printing contacts
+февр. 13, 2023 2:04:28 PM Core.MVP.Presenter printPhonebook
+INFO: Contacts was printed successfully
+февр. 13, 2023 2:04:28 PM UI.ConsoleMenu initApp
+INFO: Main menu
+февр. 13, 2023 2:04:37 PM UI.ConsoleMenu initApp
+INFO: Choose exporting contacts
+февр. 13, 2023 2:04:37 PM Core.MVP.Model exportToFile
+INFO: Contacts was exported successfully
+февр. 13, 2023 2:04:37 PM UI.ConsoleMenu initApp
+INFO: Main menu
+февр. 13, 2023 2:04:43 PM UI.ConsoleMenu initApp
+INFO: Choose importing contacts
+февр. 13, 2023 2:04:43 PM Core.MVP.Model addContact
+INFO: New contact was added
+февр. 13, 2023 2:04:43 PM Core.MVP.Model addContact
+INFO: New contact was added
+февр. 13, 2023 2:04:43 PM Core.MVP.Model addContact
+INFO: New contact was added
+февр. 13, 2023 2:04:43 PM Core.MVP.Model addContact
+INFO: New contact was added
+февр. 13, 2023 2:04:43 PM Core.MVP.Model addContact
+INFO: New contact was added
+февр. 13, 2023 2:04:43 PM Core.MVP.Model addContact
+INFO: New contact was added
+февр. 13, 2023 2:04:43 PM Core.MVP.Model addContact
+INFO: New contact was added
+февр. 13, 2023 2:04:43 PM Core.MVP.Model addContact
+INFO: New contact was added
+февр. 13, 2023 2:04:43 PM Core.MVP.Model addContact
+INFO: New contact was added
+февр. 13, 2023 2:04:43 PM Core.MVP.Model addContact
+INFO: New contact was added
+февр. 13, 2023 2:04:43 PM Core.MVP.Model addContact
+INFO: New contact was added
+февр. 13, 2023 2:04:43 PM Core.MVP.Model addContact
+INFO: New contact was added
+февр. 13, 2023 2:04:43 PM Core.MVP.Model importFromFile
+INFO: Contacts was imported successfully
+февр. 13, 2023 2:04:43 PM UI.ConsoleMenu initApp
+INFO: Main menu
+февр. 13, 2023 2:04:59 PM UI.ConsoleMenu initApp
+INFO: Choose printing contacts
+февр. 13, 2023 2:05:00 PM Core.MVP.Presenter printPhonebook
+INFO: Contacts was printed successfully
+февр. 13, 2023 2:05:00 PM UI.ConsoleMenu initApp
+INFO: Main menu
+февр. 13, 2023 2:05:03 PM UI.ConsoleMenu initApp
+INFO: Choose closing phonebook
+февр. 13, 2023 2:05:03 PM UI.ConsoleMenu initApp
 INFO: Closing phonebook

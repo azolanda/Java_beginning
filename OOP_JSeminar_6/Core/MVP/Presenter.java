@@ -68,7 +68,7 @@ public class Presenter implements PrintPhonebook {
             }
 
             view.viewInformation(". ".repeat(19) + "\n");
-            log.info("Contacts was printed successfully");
         }
+        log.info("Contacts was printed successfully");
     }
 }
